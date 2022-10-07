@@ -13,6 +13,18 @@ A eurorack version 1.6 of Rob Hordijk's Benjolin with 100mm x 78mm which signifi
 
 All Kicad file provided is using Kicad 6
 
-Panel design
+== Panel design ==
 ![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_panel.png?raw=true)
 
+
+== PCB design ==
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_pcb.png?raw=true)
+
+== Build design ==
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_back_full.png?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_full.png?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_side_full.png?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_side_full2.png?raw=true)
