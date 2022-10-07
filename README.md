@@ -12,3 +12,7 @@ The board come with several changes, which is:
 A eurorack version 1.6 of Rob Hordijk's Benjolin with 100mm x 78mm which significantly reduce the cost of printing PCB. The panel still on eurorack standard size though, so no cost reduction there. The panel design is enhanced with Batak's Gorga (Indonesian tribe from Sumatra) drawings.
 
 All Kicad file provided is using Kicad 6
+
+Panel design
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_panel.png?raw=true)
+
