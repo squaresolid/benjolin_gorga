@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "benjolin_panel")(type "KiCad")(uri "$(KIPRJMOD)/benjolin_panel.pretty")(options "")(descr ""))
+)
