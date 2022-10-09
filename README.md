@@ -9,6 +9,7 @@ The board come with several changes, which is:
 - Gorga Graphics for Panel (Panel size is still as eurorack standard so no efficient cost production can be made)
 - 100mm x 78mm circuit board redesign which allows a much cheaper PCB production.
 - Optionable switch footprints, as the small switch is quite difficult to find in Indonesia
+- Rearranged the layout a bit so all the knobs is on the right side
 
 A eurorack version 1.6 of Rob Hordijk's Benjolin with 100mm x 78mm which significantly reduce the cost of printing PCB. The panel still on eurorack standard size though, so no cost reduction there. The panel design is enhanced with Batak's Gorga (Indonesian tribe from Sumatra) drawings.
 
