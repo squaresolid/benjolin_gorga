@@ -1,0 +1,11 @@
+AR checking written on:
+'/Users/citrakirana/Documents/uc/Benjolin/benjolin_1.6_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+VIAS that Pass = 61; Fails = 0
+TH PADS that Pass = 128; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0

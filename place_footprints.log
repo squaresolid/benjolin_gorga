@@ -1,0 +1,189 @@
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.7-1)-1
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7fb3c0269790>
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint out does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint xor does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint pwm does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint pulse y does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint tri y does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint pulse x does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint tri x does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63315001 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316B8B does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314E2C does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633143AA does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316C3B does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint G1 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63315065 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316AE2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H6 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633179B8 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6331894F does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314DB9 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6331439A does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H1 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316B31 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314FEA does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H6 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H14 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633189D3 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314DB9 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633190EE does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63318A77 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63319104 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6331910F does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633190F9 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316B55 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316CDD does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316B77 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316AC2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316B9F does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-633190E2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63316CE9 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H6 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314348 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63314DB9 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-632DCB52 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint H2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint mouse-bite-2mm-slot does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+09-27 03:59:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference designator is: kibuzzard-6331439A
+09-27 03:59:02 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 571:Reference number is: 
+09-27 03:59:52 svg2mod 1217:Font "Alata-Regular" does not natively support style "Regular" using "Path" instead
+09-27 03:59:53 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 03:59:53 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 03:59:53 svg2mod 278:  Inlining 1 segments...
+09-27 03:59:53 svg2mod 329:  Writing Text with 63 points
+09-27 03:59:53 svg2mod 329:  Writing Text with 22 points
+09-27 03:59:53 svg2mod 329:  Writing Text with 22 points
+09-27 03:59:56 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 03:59:56 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 03:59:56 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 03:59:56 svg2mod 278:  Inlining 1 segments...
+09-27 03:59:56 svg2mod 329:  Writing Text with 32 points
+09-27 03:59:56 svg2mod 329:  Writing Text with 16 points
+09-27 03:59:56 svg2mod 329:  Writing Text with 16 points
+09-27 03:59:59 svg2mod 1217:Font "Xolonium-Bold" does not natively support style "Regular" using "Path" instead
+09-27 03:59:59 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 03:59:59 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 03:59:59 svg2mod 278:  Inlining 1 segments...
+09-27 03:59:59 svg2mod 329:  Writing Text with 32 points
+09-27 03:59:59 svg2mod 329:  Writing Text with 16 points
+09-27 03:59:59 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:00 svg2mod-unfiltered 253:Found SVG layer: F.Mask
+09-27 04:00:00 svg2mod 254:  Detailed names: [F.Mask]
+09-27 04:00:00 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:00 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:00 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:00 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:13 svg2mod 1217:Font "Xolonium-Bold" does not natively support style "Regular" using "Path" instead
+09-27 04:00:13 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:13 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:13 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:13 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:13 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:13 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:15 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:15 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:15 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:15 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:15 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:15 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:15 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:17 svg2mod-unfiltered 253:Found SVG layer: F.Mask
+09-27 04:00:17 svg2mod 254:  Detailed names: [F.Mask]
+09-27 04:00:17 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:17 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:17 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:17 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:26 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:26 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:26 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:26 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:26 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:26 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:26 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:29 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:29 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:29 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:29 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:29 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:30 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:30 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:30 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:30 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:30 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:30 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:30 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:31 svg2mod-unfiltered 253:Found SVG layer: F.Mask
+09-27 04:00:31 svg2mod 254:  Detailed names: [F.Mask]
+09-27 04:00:32 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:32 svg2mod 329:  Writing Text with 16 points
+09-27 04:00:32 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:32 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:39 svg2mod 1217:Font "Alata-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:39 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:39 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:39 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:39 svg2mod 329:  Writing Text with 63 points
+09-27 04:00:39 svg2mod 329:  Writing Text with 27 points
+09-27 04:00:41 svg2mod 1217:Font "Alata-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:41 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:41 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:41 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:41 svg2mod 329:  Writing Text with 44 points
+09-27 04:00:41 svg2mod 1217:Font "Alata-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:41 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:41 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:41 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:41 svg2mod 329:  Writing Text with 44 points
+09-27 04:00:41 svg2mod 329:  Writing Text with 27 points
+09-27 04:00:44 svg2mod 1217:Font "Xolonium-Regular" does not natively support style "Regular" using "Path" instead
+09-27 04:00:44 svg2mod-unfiltered 253:Found SVG layer: F.SilkS
+09-27 04:00:44 svg2mod 254:  Detailed names: [F.SilkS]
+09-27 04:00:44 svg2mod 329:  Writing Text with 14 points
+09-27 04:00:44 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:44 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:46 svg2mod-unfiltered 253:Found SVG layer: F.Mask
+09-27 04:00:46 svg2mod 254:  Detailed names: [F.Mask]
+09-27 04:00:46 svg2mod 278:  Inlining 1 segments...
+09-27 04:00:46 svg2mod 329:  Writing Text with 32 points
+09-27 04:00:46 svg2mod 329:  Writing Text with 14 points

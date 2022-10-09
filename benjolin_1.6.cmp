@@ -1,0 +1,1123 @@
+Cmp-Mod V01 Created by PcbNew   date = 2022 October 07, Friday 09:44:36
+
+BeginCmp
+TimeStamp = e53b3f87-046b-4773-be12-5c58292b3503
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5e338d76-fa42-4b45-90f6-383f18b965dc
+Reference = JP1;
+ValeurCmp = M05X2PTH;
+IdModule  = Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 01437561-45f0-4389-88b8-05c6fd4c1240
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ead7f3c4-7abc-42c0-96a8-92e4e2478d31
+Reference = C17;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 09a34f9f-95c2-46e4-b8ca-c2a6671965c8
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3def08ff-d0f0-4007-82e3-eafb34fc9805
+Reference = R36;
+ValeurCmp = 150k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a54161e-9926-414f-8536-006226e440aa
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6e08ac76-f20c-42dd-bd6d-37848fdf93b2
+Reference = R6;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c21f48f-8056-4733-8ac6-386b2f1f12dc
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/eea81934-42f7-4eea-a05b-e66ef7ab3528
+Reference = IC2;
+ValeurCmp = TL074D;
+IdModule  = benjolin_1.6:SO14;
+EndCmp
+
+BeginCmp
+TimeStamp = 12b30787-c5e7-449e-aac0-796c283ff1c6
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/630efd22-59f9-4293-bee6-35c745b7e5ec
+Reference = C16;
+ValeurCmp = 10u;
+IdModule  = benjolin_1.6:PANASONIC_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 164e178a-31e5-4f54-91be-2e3724c8bb40
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b20c8675-6687-4765-9ec9-65528c21f008
+Reference = IC4;
+ValeurCmp = TL072D;
+IdModule  = benjolin_1.6:SO08;
+EndCmp
+
+BeginCmp
+TimeStamp = 198038b0-7b30-46f0-af26-87333de7570c
+Path = 
+Reference = kibuzzard-633E8A32;
+ValeurCmp = G***;
+IdModule  = kibuzzard-633E8A32;
+EndCmp
+
+BeginCmp
+TimeStamp = 1be96a77-f5bd-4217-80fb-c51394ec8366
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b84a353c-83e4-415c-ad92-a924770c4f05
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d66e41c-a93f-483d-96d4-c1066d27b30d
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/278aab00-8f76-4f6e-ac91-1de5bea9cbb1
+Reference = R31;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e06796c-9c5f-44ca-b492-2da6313b21df
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5628723c-2256-469b-a9e3-52d52eae9614
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 21205d8f-7bf1-49fd-88d3-12b79ffa8810
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6e3d2e55-e501-4a53-950a-c6fabee002eb
+Reference = C29;
+ValeurCmp = 18p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 218a57bb-bf74-4b75-b15f-90a1f51cf2f3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e3a4d82f-0328-4a58-a894-0972ff14458b
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 21c0d453-fe4e-4cc3-86ca-923a50987eea
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/75e8f8f9-14ad-4410-95dc-b13a46ad08fa
+Reference = C4;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 26c6cde7-b9f5-4a61-8ca3-5b8bc6a83263
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/bc91280b-8539-4d39-9a5a-19264bfd2ae8
+Reference = D5;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 282a6e23-46f3-48a3-a767-50a108f3f4ae
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/7de9dea8-5889-44a9-829b-5a0ce1fd4853
+Reference = D3;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 2bc61f4a-22c6-4799-b8ce-dfaa98b25561
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/aa3af23e-52c1-4949-87ae-41eca43c3f7f
+Reference = D2;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d2ec610-e235-4937-a7f5-6bdfc6d1c0ae
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/eec385ac-1cde-40ec-9905-8e299aa8b582
+Reference = IC5;
+ValeurCmp = TL074D;
+IdModule  = benjolin_1.6:SO14;
+EndCmp
+
+BeginCmp
+TimeStamp = 325e4211-9cdf-4961-93bc-11e2b4c88272
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/2289826a-ed8f-4d3b-9ecf-a8921059a95c
+Reference = R2;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3282e2b8-3536-44dc-9743-a7ba3541a880
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/26fa9659-2bd8-48ea-b497-4a2fce1f36be
+Reference = C9;
+ValeurCmp = 560p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3471a840-c92c-4cd1-be34-5c730fbec433
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/a210c299-34cf-440d-937f-9e1a9dffe185
+Reference = D1;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 34e283ce-0dd9-478f-9e7a-64f7645d2a90
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b656b4c9-c1af-4d65-9219-850064a7f74a
+Reference = D11;
+ValeurCmp = 1N5819HW;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 35e53787-dd38-41b3-9b92-1d011101ed1a
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e46e7e78-07d8-49cc-bcc6-ac283d09b5d4
+Reference = R45;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 374b9885-5419-4124-8cf6-3ce5d5c17d55
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f98596cc-f219-4e36-b33e-848a66669c3e
+Reference = R11;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3772647e-0499-43f7-a968-262f4a865001
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ddd79395-8408-447c-92ef-fb54711a5366
+Reference = R42;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 37fad852-11a6-460d-b861-20ad3e479168
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/a5727c31-33dd-441e-a669-23323b7b8e03
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3dc34cb3-970b-46dc-b123-2089ac7e7b90
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/27157d7f-1490-46da-a361-0503c118f804
+Reference = R1;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e73e513-f41c-4d38-a51b-6821256f1148
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b57d4676-ee19-4f48-966d-1f831778ee76
+Reference = R34;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 42cdbf93-ec5a-4f0a-ad03-e2a3302e2a0c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/88b3812a-1dc9-4d11-a093-f2693037f8fb
+Reference = C10;
+ValeurCmp = 220p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 4ae71a36-b088-469b-8048-c02a703e0809
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b322ed19-67ed-4754-abc2-b88f64c7cf38
+Reference = C22;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 4d87183e-e60e-45d9-b87d-f562ae7fb541
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/af49050b-58f4-4a20-810d-8267801d9a1f
+Reference = C1;
+ValeurCmp = 560p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fdc21a1-2ae4-490c-8bc0-0358f5458f66
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/06d9303f-5257-449d-960e-fd15e0b2f793
+Reference = C32;
+ValeurCmp = 18p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5720c596-df05-4a4f-83ae-44406eb16adf
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f57e158c-273d-467d-8161-a4109f2e80b0
+Reference = D7;
+ValeurCmp = 1n4004;
+IdModule  = benjolin_1.6:DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = 572ef115-6f9c-491a-a809-02f27aa205b4
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/20699bc5-a05d-4642-b9cc-7a5ec807ab88
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 57366513-a687-456a-b836-1ec00eea1519
+Path = 
+Reference = kibuzzard-633E8939;
+ValeurCmp = G***;
+IdModule  = kibuzzard-633E8939;
+EndCmp
+
+BeginCmp
+TimeStamp = 582ad830-fa22-4c8f-bf24-bddb5c2b5fe0
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/8e82d0b5-d080-4aa9-9526-ed4a3fb4af56
+Reference = R26;
+ValeurCmp = 15k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 59c42265-7831-45fa-9028-5284c07b7f6b
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e439b10b-d480-491e-bf75-468d52d45fe0
+Reference = R43;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 59f0f8ca-720e-40b2-bcbd-6af1101cd30c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f50af989-b14e-4f6d-8dd3-8a07ebddca54
+Reference = R29;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6732cf86-4a4a-4576-86d8-10b0234dbc65
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/1e560f8a-5655-4f10-9671-fda97791d504
+Reference = C19;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 67439dd4-04be-44c2-ae86-395d7a8ab074
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b978bb5b-bd91-4faf-9b4a-4f82b48a7ea1
+Reference = C18;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6888dcfe-cba8-4532-92df-cc555bd4ce80
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3253126d-40fa-43da-a2f5-0a8bbc449719
+Reference = R30;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 69e0b36f-647a-46bd-87ad-54e3ac5bca1a
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/abcc59ce-0e2b-4268-bd30-21d6a1eecbf5
+Reference = R17;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6dc34361-5e32-4ac8-92a8-e88cdf8b3a74
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/17112936-f01b-4575-809a-da81fe63829f
+Reference = D10;
+ValeurCmp = 1n4004;
+IdModule  = benjolin_1.6:DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = 707cf989-b6ee-4a59-a853-68c3deed90d8
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f1a7fbd7-d669-446d-8ee5-dd45e7f08562
+Reference = C2;
+ValeurCmp = 560p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 73c8501f-3aea-4b03-9e3a-f06365aed073
+Path = 
+Reference = kibuzzard-633E89D5;
+ValeurCmp = G***;
+IdModule  = kibuzzard-633E89D5;
+EndCmp
+
+BeginCmp
+TimeStamp = 7441d70c-387c-483f-bf0e-66fefebdd9c4
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/a3ec22dc-0609-499e-b90e-d87042b3ef3f
+Reference = R28;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7461df10-e9ba-42f1-9151-8c7162857a4e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/0f18fde6-efe9-496b-bf61-f9f94b2c0c54
+Reference = IC1;
+ValeurCmp = 4021D;
+IdModule  = benjolin_1.6:SO16;
+EndCmp
+
+BeginCmp
+TimeStamp = 74af1b35-23d5-4089-83d4-948a7ded36e5
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/bfcb8a60-c9c0-438f-b564-6c97c5d70674
+Reference = R14;
+ValeurCmp = 15k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 76d9685d-7aa4-4660-9f70-d9cc1eff06d5
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3cceb4e3-b613-4758-ab8b-ddf569693337
+Reference = R65;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7810f2f3-512e-493a-879e-9760eb651439
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/246aece8-d050-411f-ae58-0ebffcba09cf
+Reference = R19;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7add2049-c227-48bd-8d55-f708406d19bf
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/cb20551a-eb74-446e-b27a-05b7f3b71774
+Reference = C28;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7aea6076-b3c4-4e45-bb42-39d96fd4b9dc
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e8ec142c-5155-45b2-bd96-595c6b3311f8
+Reference = R18;
+ValeurCmp = 47k (was 62k);
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b5ebb8d-169e-4e22-bd5f-e42b76768be4
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6d38dd8b-6fd5-4d77-b515-568c0234fb07
+Reference = R16;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e496fc4-5ba3-4ab6-9ee4-68b26158e6d3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/a6f287c5-314d-4a86-a79e-ab2009b05a05
+Reference = D200;
+ValeurCmp = 1N5819HW;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 83173099-638f-4196-bf1e-bbc6ed95b2e8
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/72ba87eb-3728-4d80-9514-d00e07efdeab
+Reference = R23;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 8327a1d9-be29-47e0-bc94-35bd91dfd2ef
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ff025c0c-ad50-4d9f-ba3f-85a4aeefd50f
+Reference = C23;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 87cc9877-eb2a-491b-9981-5029d16c2263
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/7f375da1-6f47-4eb1-8339-01ed9280bd2f
+Reference = C27;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 89a38eba-01d2-4e9a-a421-40c8f2cac4a8
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/57dab613-0b0f-4d8b-bbc0-f0d368ffc54f
+Reference = C3;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 89d0c6a6-e5a8-4d09-94de-2ab522bff72c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/cdbdfcde-d503-41e3-bea1-b18ffd32c55f
+Reference = R32;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 90b66e7b-0c91-4b3e-a005-496eb15361e3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/c304d44b-bbff-4bee-aea6-9a9c0e28d8ba
+Reference = IC3;
+ValeurCmp = SSM2164S;
+IdModule  = digikey-footprints:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 916e527b-8368-4a99-9025-4067e7c15e9b
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d3ba2294-3840-4136-bf60-405b61531be7
+Reference = C100;
+ValeurCmp = 4.7u;
+IdModule  = benjolin_1.6:PANASONIC_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 9686a8e2-379b-4d93-b6df-2d7a59245c60
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/066f840a-13fa-44ff-96bf-9487fd7828a9
+Reference = R9;
+ValeurCmp = 510;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 96f3e538-1dcc-48e9-bcc3-34cc21ddbefa
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/c8892679-50d7-4926-ae46-64f5cbb13fa9
+Reference = R49;
+ValeurCmp = 510;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 9c36bad4-fa23-4c22-889f-918f424a5dd3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/35aa056d-fc96-4033-8111-8dd344c6e4d1
+Reference = R12;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 9db74742-f52b-422e-892f-743d5521c09d
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/86424b83-aada-458e-a2e1-6db5e3f1992b
+Reference = C7;
+ValeurCmp = 220p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 9dd5b002-e842-42e0-94e0-4bc866d258f7
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/50f741ea-6272-4006-9532-1e141bf5de40
+Reference = R47;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a0601813-7e3c-4463-a3fa-03794dad9f14
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/95a0a57e-d270-4d4c-b9a1-dc4773103d46
+Reference = R24;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a1974feb-9c33-4c27-93be-a8fd8bb6818f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/77181134-59ef-45db-9aa1-d6fafbed3134
+Reference = R41;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a25d86c7-4f17-4e5d-91ed-42ac7d6d2e40
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3ccc65fa-7308-4e0b-8425-e254089c76e0
+Reference = R27;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a65c9c3d-e0d1-4dc8-8c5b-49f248591588
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b5847001-df80-4a82-873f-284ed79e0a5a
+Reference = R50;
+ValeurCmp = 470k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a9f02a1e-f24a-4105-ad4a-2e1fa1cfa938
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b0c7b639-afc8-4f53-a1a9-9973eb75a399
+Reference = R46;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = ab257027-1720-4f92-bf81-07e2e208391e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/fa3084b8-3a55-4a9b-a31e-595ba19b762b
+Reference = IC9;
+ValeurCmp = TL072D;
+IdModule  = benjolin_1.6:SO08;
+EndCmp
+
+BeginCmp
+TimeStamp = ae122a74-3bd5-4ba0-8ffb-a7f906640547
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/aea835f9-81fb-48b1-b9f5-559b909b8a50
+Reference = R15;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = b4ac8d16-e8d9-4d1d-a9c3-cd7210f03156
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/c7b8f538-3c54-47ca-adcc-cb3051500a64
+Reference = R37;
+ValeurCmp = 510;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = b595ad54-458a-43c7-a7b4-bb67bf0c1fdc
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5f29228d-bb06-4e5c-9453-641fe4e0ac3a
+Reference = C14;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = badb1003-5687-46e3-8433-7c4acca1eb6c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/4626ed61-37dd-4b4c-bc05-0f80cfcd337c
+Reference = C31;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = bb0f6f7a-6034-46bc-a33d-5c630037e52e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/03047166-fd74-489f-8d43-382254ba0dc3
+Reference = C6;
+ValeurCmp = 560p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = bea85571-c01f-4a2b-9e93-76971d2e29dc
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e55e731a-152b-40df-b685-8eceeb450344
+Reference = R22;
+ValeurCmp = 15k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = c290f372-fa90-4b81-b8b7-314a7ce2429e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/06b80f1e-a05f-4287-a814-602d09e0632f
+Reference = IC7;
+ValeurCmp = lm78l09;
+IdModule  = Package_TO_SOT_THT:TO-92L_Inline_Wide_Vreg78L09;
+EndCmp
+
+BeginCmp
+TimeStamp = c425e0de-0de4-48f8-82ad-7143f7f1ef37
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/90c2c3f5-3760-4b73-83b2-67fe5585f40d
+Reference = R44;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = c4f61283-4001-4135-a2c1-433adea8a1ec
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d91c7909-13f1-44f9-b4f7-96a8067a6b9c
+Reference = R48;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = c8804676-94d6-446c-9b82-41afc02a4511
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e35c4b8d-a0fc-467a-b130-3ecde8addaf1
+Reference = C24;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = ca773248-dd4d-42cc-beb3-8672cfe9afda
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5d978fe0-43af-4992-bb7c-54f0928e0133
+Reference = C20;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = caa331fa-6ea3-4fd0-96ec-c23835f6632f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e7266cb8-5ba1-4c3d-9ff2-d3b802aade9f
+Reference = C30;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = cd421431-dd23-4de8-a5da-3b3469bac8c8
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/1e8fa558-c393-49ad-9f13-dede1ebd176a
+Reference = R39;
+ValeurCmp = 15k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = d226a9d8-f3e7-4d17-be88-48141b98be95
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5834fd2b-4efa-4c57-9f23-21c428d3d87e
+Reference = IC8;
+ValeurCmp = lm79l09;
+IdModule  = Package_TO_SOT_THT:TO-92L_Inline_Wide_Vreg79L09;
+EndCmp
+
+BeginCmp
+TimeStamp = d3a1cc57-3609-4a1a-bc50-0db2cdac17cb
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6828e576-9117-444f-813e-506e8d9f0480
+Reference = R38;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = d93dc5e0-e5f3-4dd2-8ff9-92b3cf3a7d20
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d0f233c2-914a-4a7b-ac15-278835af6a27
+Reference = R63;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = dab3a92c-38f6-43ca-884d-33eecc15dd8c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d0bcbc19-b308-45c6-9cbd-49243ec973ec
+Reference = C25;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = dbe631bc-c415-4d19-b6bc-c94a25925b9f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/08c96f1c-6041-41df-93d3-6d58873050fd
+Reference = D6;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = deb1f2fb-9ddf-44b3-8716-76cc2a094653
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/9b6802f8-0096-4155-b604-9ede2e30d534
+Reference = R20;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = df3039f6-a9d4-41ab-979d-2d96ba724435
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/7845bdc1-dbe1-46a8-a4c3-8a9c5adeb0c4
+Reference = D100;
+ValeurCmp = 1N5819HW;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = e1de80f6-fac5-4048-a3db-550d6aa2cb7b
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/4bbdc0ae-ed70-469b-82c2-ca7de3d7b04e
+Reference = R13;
+ValeurCmp = 15k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e1f2ddb2-3ca8-4fe3-92b8-a8db3f2601b3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f8abda11-404d-4fa9-8fee-110a179d117e
+Reference = C8;
+ValeurCmp = 220p;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e52f6ae8-8de3-4e2f-bd06-e7e46b7b8c8d
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/59f0cfb5-4f5e-4b72-a7a8-dda000aab56b
+Reference = R64;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e65ca368-bf84-4c39-b492-c913ab7bec28
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5ba62652-ac78-45a2-a244-63c48f7c53ec
+Reference = R4;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e702de16-e9f3-46ea-846c-8e735823ee67
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/46570503-3066-48ea-91d9-e97a3e0460db
+Reference = R21;
+ValeurCmp = 62k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e9b101c1-a4b0-470b-81c0-0fb45a5d454e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/596a40cd-5ead-4c57-9587-0fb534e3e8d4
+Reference = C200;
+ValeurCmp = 4.7u;
+IdModule  = benjolin_1.6:PANASONIC_A;
+EndCmp
+
+BeginCmp
+TimeStamp = ea23d63c-d10e-4977-a6b7-1c0d304e4e1e
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/4bd1746d-7c04-44f0-9e49-c85357039255
+Reference = R10;
+ValeurCmp = 510;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = eb645488-b462-4a60-b86a-c27bbc2f6ba9
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/5e529a43-9076-4bb7-aad3-ad8754a7fb5c
+Reference = Q1;
+ValeurCmp = 2n3904;
+IdModule  = benjolin_1.6:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = ec792f8f-fe92-449b-93cf-8628a65d4e54
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/0ded1eb9-20b2-4220-b090-f6cb2f98e6ef
+Reference = D4;
+ValeurCmp = 1N4148W-7;
+IdModule  = benjolin_1.6:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = ece6060b-1d56-4fac-9ecb-6f58d4f0aa78
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/35d73b4f-6fbf-4838-892e-2e9a6aa66cff
+Reference = R3;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = ee665544-4534-4904-9971-6eaf758af36a
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/8d6cf531-1d3a-4887-a875-cb6fe10d6348
+Reference = R33;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = ee8825d9-5daf-4c39-af50-4e6faaa6f7a1
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6460fadf-88fc-4f61-b019-06d9d3dbb51a
+Reference = C26;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f2404ff6-91d8-4920-81d7-12cb12d6379d
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/c60fed9a-6259-4896-a61b-35ac8d9258d9
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f291fa7b-6459-4907-9b35-ee252b322238
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f74acc4a-dce7-4fec-9e52-d8a3a28bb0ed
+Reference = R62;
+ValeurCmp = 1.0k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f47c7074-a315-4842-a4aa-f2a500e40649
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ba1f80e4-3112-4f54-8858-27aa42a192f0
+Reference = R66;
+ValeurCmp = 20k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f5f77826-4ad4-4ac3-b03d-c090e59df2fb
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ec75cd8c-632d-4801-ab26-2d784156544b
+Reference = D8;
+ValeurCmp = 1n4004;
+IdModule  = benjolin_1.6:DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = f6205b97-1775-449d-8148-b205985d015f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3e746193-1009-4805-bc4e-369be30d34f4
+Reference = R25;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f7ca38ee-2ec2-40e5-a260-7db205ebd736
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/56b1cc77-37f6-49f6-88c4-6f1b51a45075
+Reference = R35;
+ValeurCmp = 51k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f83913be-ed9b-447d-b388-976325bd7f8c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d52b902c-f357-4545-b204-1a8c4ba2280e
+Reference = IC6;
+ValeurCmp = TL074D;
+IdModule  = benjolin_1.6:SO14;
+EndCmp
+
+BeginCmp
+TimeStamp = f8e6d517-6730-431f-85a0-8b265e7bb5de
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e7b0460a-3861-4d35-8aad-e4fb28be7204
+Reference = R5;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = fb14b250-aa37-424a-a063-843fba7b9205
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/32614a49-5089-45ba-986e-253042394fa0
+Reference = C15;
+ValeurCmp = 10u;
+IdModule  = benjolin_1.6:PANASONIC_A;
+EndCmp
+
+BeginCmp
+TimeStamp = fd8a603e-a95f-47c7-9193-ae321f2f6f64
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/0681dbd5-e09f-4a4d-89e8-eae2a3507a9c
+Reference = R40;
+ValeurCmp = 1.5k;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = fd93aff2-3ef3-4605-b965-27399d32c82f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/dac236f9-978b-4149-a6cd-6abbe955d81c
+Reference = D9;
+ValeurCmp = 1n4004;
+IdModule  = benjolin_1.6:DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = fe65aa1e-8495-48a0-944e-01e4b9e7c0af
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/44399145-9632-4034-973e-5743504c73b5
+Reference = C21;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 003e9edb-2234-4620-8824-466f2b6d25ff
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/1e4855cd-cff7-4da3-9b84-91d720f90896
+Reference = SW1;
+ValeurCmp = submini-2T;
+IdModule  = benjolin_1.6:SPDT-SUB;
+EndCmp
+
+BeginCmp
+TimeStamp = 08b56c52-6f9b-47d2-b2fc-de6bcd387c10
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e57b401b-6b9a-498c-af84-c192a4c8f3b9
+Reference = J11;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = 0e57de17-07b5-45de-9349-b9c4468b06a0
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/519e071c-690e-4fe0-b7fb-2d66b939329e
+Reference = J5;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e57baa2-6820-467e-bbaf-e74074f0327f
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/ba17232b-4fb6-4776-83aa-1c0146897979
+Reference = R54;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = 4429ea5d-810a-4b49-8a00-c52d51b65c82
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/332f95f0-39c8-4dd1-a7cc-e1012f2a32f5
+Reference = R51;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = 47455ebe-892d-444c-b896-40119bfd1b44
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d63b4f07-b97f-499b-bdf5-43e92abd1f74
+Reference = J12;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = 4a889d28-8715-4ac9-831b-e81ea05101ea
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/6b0b73b6-53ec-466b-ac26-2e806bcac0f9
+Reference = J3;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a6b9cef-ba2c-4d99-ba42-0ad71dc0eeea
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/b27d17dc-1259-42da-9d4d-24c7d1fabfbb
+Reference = R58;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e3c0f5a-bfa0-4248-8fc5-c09f7bef3779
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/3235ce1c-de52-4ec6-b5e5-2c16624530f5
+Reference = R53;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = 8b4bad90-1961-40ba-a203-5487acea056b
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f48624c7-849b-4de6-9b75-b5982d745d7e
+Reference = R60;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = 9355da90-3f3e-41f2-9d3f-fa4ee5698867
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/03c33c96-a697-404b-b2c5-7a6eb291672f
+Reference = J8;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = 9528e6c0-46d1-4077-9027-da136278d50a
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/9245101c-03b0-42e3-a15f-8e872d51df54
+Reference = J4;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = a5a40d4b-03b0-4cfd-96b7-f6b482760a2c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/f1885274-bafc-4833-bbc3-f0f1f55c419f
+Reference = J9;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = bc0e8dfc-93c7-4d22-8079-9f0c3139a70d
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/33997092-cec5-452c-838e-5d07acc3677d
+Reference = J2;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = c50d61fd-2381-4b68-95cb-d0e9f4b303f6
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/713fb0f0-27a1-42c3-8070-0a90d8ab5586
+Reference = R57;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = c7a731a4-dae2-454f-b3b6-ec377a1d2c77
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/02eccac8-d351-41d1-a039-3ec0ff9d27da
+Reference = R52;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = d5b12139-2120-45d0-8089-f252497ce8c4
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/788d1d24-fec8-45a5-9685-b73915dd20dd
+Reference = R56;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = d67d9239-b267-46af-933a-1899fc2ddcf3
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/944dc4af-bb9d-4747-b333-eca065bd9c7a
+Reference = R59;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = d929984d-1ec9-4757-a342-e731e6734914
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d249c774-76bb-41de-b91b-caa5814e7ad2
+Reference = J6;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = ea37093f-2733-405b-ac66-0944fe54b866
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/e03fd3d8-c1e3-4fed-a621-07442f42d824
+Reference = J10;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = ecfeff2e-df41-41dd-b0ae-69feb91dea60
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d704f2ea-cfd3-4db1-9c12-a60e00c83652
+Reference = J1;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = f32e665d-97ed-4fa8-a034-99561b3dbf87
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/8b913a1c-cd2f-4377-8b8c-dd69f8495d93
+Reference = J7;
+ValeurCmp = PJ301_THONKICONN6;
+IdModule  = benjolin_1.6:WQP_PJ_301M6;
+EndCmp
+
+BeginCmp
+TimeStamp = fc63d2e6-4fb3-47d9-ab01-d1caba404aed
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/d6ed9efd-1074-42d9-9bd4-9b0abd4b7909
+Reference = R55;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+BeginCmp
+TimeStamp = fc728521-b267-4ac4-9fb7-33cd39a9616c
+Path = /a5cfc72d-9172-40c9-b44f-7a7d8ffdb9c7/9b542a90-2cac-4d66-a9ee-289d3f0825b7
+Reference = R61;
+ValeurCmp = 10k;
+IdModule  = benjolin_1.6:ALPS_POT_VERTICAL_PS;
+EndCmp
+
+EndListe
