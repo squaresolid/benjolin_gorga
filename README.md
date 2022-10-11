@@ -30,3 +30,5 @@ All Kicad file provided is using Kicad 6
 ![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_side_full.png?raw=true)
 
 ![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_side_full2.png?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_panel%20final.png?raw=true)
