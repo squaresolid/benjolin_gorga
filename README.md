@@ -32,3 +32,19 @@ All Kicad file provided is using Kicad 6
 ![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_front_side_full2.png?raw=true)
 
 ![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin3dpics/benjolin_1.6_panel%20final.png?raw=true)
+
+== PCB production by PCBway [https://www.pcbway.com] ==
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_01.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_02.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_03.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_04.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_05.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_06.jpg?raw=true)
+
+![alt text](https://github.com/squaresolid/benjolin_gorga/blob/main/benjolin%20PCB%20pics/benjolin_Gorga_PCB_07.jpg?raw=true)
+
